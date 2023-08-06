@@ -1,0 +1,8 @@
+C:\Users\Adão\source\repos\Calculadora_update3\Calculadora_update3\bin\Debug\Calculadora_update3.exe.config
+C:\Users\Adão\source\repos\Calculadora_update3\Calculadora_update3\bin\Debug\Calculadora_update3.exe
+C:\Users\Adão\source\repos\Calculadora_update3\Calculadora_update3\bin\Debug\Calculadora_update3.pdb
+C:\Users\Adão\source\repos\Calculadora_update3\Calculadora_update3\obj\Debug\Calculadora_update3.csproj.AssemblyReference.cache
+C:\Users\Adão\source\repos\Calculadora_update3\Calculadora_update3\obj\Debug\Calculadora_update3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adão\source\repos\Calculadora_update3\Calculadora_update3\obj\Debug\Calculadora_update3.csproj.CoreCompileInputs.cache
+C:\Users\Adão\source\repos\Calculadora_update3\Calculadora_update3\obj\Debug\Calculadora_update3.exe
+C:\Users\Adão\source\repos\Calculadora_update3\Calculadora_update3\obj\Debug\Calculadora_update3.pdb
